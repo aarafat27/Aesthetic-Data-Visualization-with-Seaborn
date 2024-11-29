@@ -27,6 +27,6 @@ Ensure you have Python installed. Then, install the required libraries:
 
 ```bash
 pip install seaborn matplotlib pandas numpy
-
+```
 # 📚 Read More About Seaborn at: 
 🌐 https://medium.com/@aarafat27/aesthetic-data-visualization-with-seaborn-020643675ad8
