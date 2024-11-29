@@ -1,6 +1,9 @@
 # Aesthetic Data Visualization with Seaborn
 
 Welcome to **Aesthetic Data Visualization with Seaborn**, a comprehensive guide and resource for creating stunning and informative data visualizations using the Seaborn library in Python. This repository provides examples, tutorials, and customizations to make your visualizations stand out.
+![photo-collage png](https://github.com/user-attachments/assets/33cb2338-e279-40eb-9bc5-85678f479caf)
+
+
 
 ---
 
